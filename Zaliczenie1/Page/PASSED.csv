@@ -1,0 +1,6 @@
+ SMOKE_TEST_PASSED
+1513258845850,827,Login,200,OK,Grupa wątków 1-1,text,true, SMOKE_TEST_PASSED,12459,1437,1,1,477,0,267
+1513258849487,580,DaneOsobowe,200,OK,Grupa wątków 1-1,text,true,,17043,780,1,1,531,0,220
+1513258853735,2419,Search Page Product Random Number 1,200,OK,Grupa wątków 1-1,text,true, Value occurs ,31920,3602,1,1,562,0,422
+1513258856161,813,Search Page Product Random Number 2,200,OK,Grupa wątków 1-1,text,true, Value does not exist ,20283,972,1,1,787,0,226
+1513258861504,1403,Logout,200,OK,Grupa wątków 1-1,text,true,,17840,2750,1,1,1033,0,723
